@@ -3,7 +3,7 @@ Summary:	Find lexical similarities between files
 Summary(pl.UTF-8):	Wyszukiwanie podobieństw leksykalnych pomiędzy plikami
 Name:		similarity-tester
 Version:	2.26
-Release:	0.1
+Release:	1
 License:	BSD
 Group:		Applications/Text
 Source0:	http://dickgrune.com/Programs/similarity_tester/sim_%{ver}.zip
